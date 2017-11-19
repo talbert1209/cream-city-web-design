@@ -1,0 +1,13 @@
+/* Formats the body */
+body {
+  background-color: #32004e;
+  font-family: Helvetica;
+  color: white;
+}
+
+.rectangle {
+  display: inline-block;
+  width: 200px;
+  height: 300px;
+  border: 2px solid white;
+}
