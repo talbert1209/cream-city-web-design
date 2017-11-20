@@ -11,7 +11,7 @@ header {
   background-color: #fe4a49;
   margin: 0;
   padding: 10px;
-  /* position: fixed; */
+  position: fixed;
   width: 100%;
 }
 
